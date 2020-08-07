@@ -1,0 +1,9 @@
+{
+  "data": {
+    "train_filename": "G:\\nlp\\toutiaonews38w\\data\\train.tsv",
+    "test_filename": "G:\\nlp\\toutiaonews38w\\data\\test.tsv",
+    "val_filename": "G:\\nlp\\toutiaonews38w\\data\\val.tsv"
+  },
+  "training": {},
+  "model": {}
+}
